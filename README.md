@@ -5,7 +5,7 @@ Login Check is a simple web-based authentication system that allows users to sig
 
 ## 🚀 Live Demo  
 
-🔗 [Quiz App](https://hossambasuone.github.io/Quiz-App/)  
+🔗 [Quiz App](https://hossambasuone.github.io/Login-check/)  
 
 ## 👌 Features
 - 🔑 User authentication system
