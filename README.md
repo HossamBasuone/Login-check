@@ -33,5 +33,13 @@ Login Check is a simple web-based authentication system that allows users to sig
 3. If authentication is successful, the user is redirected to `hello.html`.
 4. If the login fails, an error message is displayed.
 
+Here's your updated **Screenshots** section with improved formatting and spacing:  
 
+---
+
+## 📸 **Screenshots**  
+
+### 🔹 **Login Page** – Secure login and registration  
+
+![image](https://github.com/user-attachments/assets/6bb3ef45-f0f1-4cf9-991d-8b6762f6adce)
 
